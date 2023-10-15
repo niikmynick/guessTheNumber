@@ -7,11 +7,11 @@ the code allows you to play the guessing game in the terminal.
 <br />
 first steps:
 
-download a .py file here - https://drive.google.com/file/d/1SQEYHve2MxtvgP-T0nyzu-f_B67-Sz8v/view?usp=sharing
-
 download and install last python version from python.org (if you haven't installed it yet)
 
 you need to install a python math and random modules
+
+clone project to your local machine `git clone https://github.com/niikmynick/guessTheNumber.git`
 <br />
 <br />
 <br />
